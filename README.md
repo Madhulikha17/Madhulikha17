@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhulikha Mandela</h1>
 <h3 align="center">Pursuing my B.Tech in Computer Science(Artificial Intelligence) at Parul University,Vadodara,Gujrat</h3>
 
-<img align="right" alt="coding" width="199" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
+<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhulikha17&label=Profile%20views&color=0e75b6&style=flat" alt="madhulikha17" /> </p>
 
